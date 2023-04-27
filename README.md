@@ -1,2 +1,2 @@
 # dotfiles
-my dots
+my dots, awesome.
